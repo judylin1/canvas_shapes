@@ -1,2 +1,2 @@
 #Canvas Shapes
--   This is a simple demo utilizing HTML Canvas to draw squares and circles. 
+-   This is a simple demo utilizing HTML Canvas to draw squares and circles.

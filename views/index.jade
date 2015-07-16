@@ -1,0 +1,11 @@
+extends layout
+
+block content
+  script(src='/javascripts/script.js')
+  h1 Draw Circles And Squares
+  canvas#canvas(width='500' height='500')
+  p
+    label(for='shapeSelector') Select A Shape:  
+    select#shapeSelector.shape(name='shapeSelector')
+      option(value='Square') Square 
+      option(value='Circle') Circle
